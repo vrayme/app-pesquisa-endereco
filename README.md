@@ -1,2 +1,2 @@
 # app-pesquisa-endereco
- app web basico para pesquisa de endero atraves do cep, html, css, js e ajax
+ app web basico para pesquisa de endereço atraves do cep, html, css, js e ajax
